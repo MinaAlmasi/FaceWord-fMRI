@@ -5,6 +5,8 @@ The code notebook used for the portfolio can be found in the `src` folder. It wa
 
 Figures used in the paper can be found in the `figures` folder. 
 
+The table and other plots from *AtlasReader* is found in the `atlasreader` folder.
+
 ## Setup
 Prior to running the code, you can install all necessary requirements by running in the terminal: 
 ```
